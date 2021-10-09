@@ -1,0 +1,24 @@
+.calendar {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+  
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+  }
+  
+  .item {
+    width: 40px;
+    height: 20px;
+  
+    border: 1px solid black;
+  }
+  
+  .table {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
